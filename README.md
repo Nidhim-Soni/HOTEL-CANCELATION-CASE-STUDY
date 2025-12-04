@@ -2,6 +2,9 @@
 This project aims to help INN Hotels Group reduce revenue loss caused by high booking cancellation rates (~33%), by building a predictive Machine Learning model that identifies high-risk bookings before they cancel.
 The project follows a complete Data Science lifecycle including EDA, hypothesis testing, feature engineering, modeling, evaluation, probability-cutoff tuning, and deployment.
 
+This repository will be used to host an application for ML case study
+https://hotel-cancelation-case-study-dk4vnt7fbzzrxaocgq7bnw.streamlit.app/
+
 🚀 Project Highlights
 
 ✔ Analyzed 27K+ past bookings and 3.5K+ new bookings
@@ -11,7 +14,9 @@ The project follows a complete Data Science lifecycle including EDA, hypothesis 
 ✔ Applied outlier treatment, PowerTransformer, and scaling
 ✔ Built multiple ML models:
 Logistic Regression
+
 Decision Tree
+
 Random Forest
 
 XGBoost
@@ -145,5 +150,4 @@ Reduce operational uncertainty
 📬 Contact
 
 Feel free to connect with me for Data Science/ML roles or project collaboration!
-This repository will be used to host an application for ML case study
-https://hotel-cancelation-case-study-dk4vnt7fbzzrxaocgq7bnw.streamlit.app/
+
